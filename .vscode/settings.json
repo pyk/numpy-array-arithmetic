@@ -1,0 +1,10 @@
+{
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length=79"
+    ],
+    "python.pythonPath": "venv/bin/python",
+    "editor.formatOnSave": true,
+    "python.linting.mypyEnabled": true,
+    "python.linting.flake8Enabled": true
+}

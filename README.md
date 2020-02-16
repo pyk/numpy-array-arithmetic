@@ -1,0 +1,5 @@
+# Numpy Array Arithmetic
+
+## Setup
+
+    
